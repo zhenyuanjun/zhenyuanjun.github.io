@@ -6,7 +6,7 @@
 Computer Science, BS
 
 ### PERSONAL ACHIEVEMENT PORTFOLIOS
-- Music Project: Only Truth        							             Sept. 2023 — Jan. 2024
+- Music Project: Only Truth
 https://github.com/user-attachments/assets/6aec240c-aa2a-42ec-951f-f7d9202b8094
 - Music Project: Colorful
 https://github.com/user-attachments/assets/dc209c09-f37a-4a77-a587-6668d918d810
